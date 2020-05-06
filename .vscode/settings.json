@@ -1,0 +1,6 @@
+{
+  "python.pythonPath": "/Users/corderohub/.local/share/virtualenvs/react_django_app-oyQx8PtQ/bin/python",
+  "python.linting.pylintEnabled": false,
+  "python.linting.enabled": true,
+  "python.linting.banditEnabled": true
+}
